@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="WINDOWS-1251" standalone="no"?><acdep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="acdep.xsd">
+    <teacher id="T1" name="Петренко Марія Іванівна">
+        <subject id="S1" name="Інформатика"/>
+        <subject id="S2" name="Геометрія"/>
+    </teacher>
+    <teacher id="T2" name="Шевченко Олег Михайлович">
+        <subject id="S3" name="Алгебра"/>
+        <subject id="S4" name="Українська мова"/>
+    </teacher>
+    <teacher id="T3" name="Міщенко Ніна Олегівна">
+        <subject id="S5" name="Фізкультура"/>
+        <subject id="S6" name="Трудове навчання"/>
+        <subject id="S7" name="Я і Україна"/>
+    </teacher>
+</acdep>
